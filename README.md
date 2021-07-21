@@ -3,6 +3,10 @@
 Fades windows when focused/unfocused, mimicking behaviour from X compositors
 such as [picom](https://github.com/yshui/picom).
 
+### Demo
+
+https://user-images.githubusercontent.com/1812566/126562758-59b44287-47b6-44f5-9608-353d86598d16.mp4
+
 ### Usage
 
 Requires Python 3.8+ and libraries in `requirements.txt` (namely `i3ipc`
